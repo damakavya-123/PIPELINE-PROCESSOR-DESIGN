@@ -79,4 +79,6 @@ The 4-stage pipelined processor was successfully designed, implemented, and simu
 
 ##Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5790c0e2-f982-45b7-92c1-5e7e4387b5f0" />
+
 
